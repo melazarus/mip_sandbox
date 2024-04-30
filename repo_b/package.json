@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["repob/__init__.py", "github:melazarus/mip_sandbox/repo_b/__init__.py"],
+    ["repob/hello.py", "github:melazarus/mip_sandbox/repo_b/hello.py"]
+  ],
+  "version": "0.1"
+}
